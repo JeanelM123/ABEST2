@@ -1,0 +1,54 @@
+h1 {
+  text-align: center
+}
+
+p {
+  background-color: white;
+  Text-align: center
+}
+
+.boxed {
+  border: 20px solid black;
+}
+
+body {
+  background-color: yellow;
+  padding: 50px 20px 20px 50px;
+}
+
+h5 {
+  color: blue;
+  text-decoration: underline;
+  font-size: 20px;
+}
+
+footer {
+  color: green;
+  text-align: center
+}
+
+ul {
+  list-style-type: none;
+  padding: 0;
+  margin: 0;
+  text-align: right;
+}
+
+#box {
+  border: 10px;
+  width: 200px;
+  height: 70px;
+  background-color: white;
+}
+
+hr.style10:after {
+  content: "§";
+  position: relative;
+  top: -0.7em;
+  font-size: 2.5em;
+  background: white;
+}
+
+button {
+  border-style: solid;
+}
